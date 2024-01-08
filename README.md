@@ -1,2 +1,2 @@
 # test-branches
-## some text for branch1
+## some text for branch2
